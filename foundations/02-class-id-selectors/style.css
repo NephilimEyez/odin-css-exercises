@@ -1,0 +1,24 @@
+* {
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+    font-size: 24px;
+}
+
+.basic {
+    background-color:#ff9387 ;
+}
+
+.large {
+    font-size: 36px;
+}
+
+#line2 {
+    color: #3c3cd1 ;
+    font-size: 48px;
+    background-color: transparent;
+}
+
+#line4 {
+    background-color: #54f154;
+    font-weight: bold;
+    font-size: 30px;
+}
